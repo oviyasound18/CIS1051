@@ -1,0 +1,44 @@
+# Proposal
+
+## What will (likely) be the title of your project
+Thermodynamic Table Readings 
+
+
+## In just a sentence or two, summarize your project 
+The project will essentially be an interdisciplinary project using Matlab(which is an abbreviate of the C++ coding language) to build thermodynamics table readings to help interpolating different values within different variables. 
+
+## In a paragraph of more, detail your project. What will your software do? What features will it have? How will it be executed?  
+What it will do?
+Our software will take a table of data, copy it into an array, and from there it will extract data from each column and interpolate it.There will be different versions and variations of the code based on the amount of tables and table readings. Our project will consist of multiple different files for each variation of the table reading. Some files will essentially act as a calculator to find values such as T,vf,vg,uf,ug,hf,h(fg),hg,sf,sg,x,v,s,h,u or uv. It will take in user inputted value to calculate these parameters. Rather than submitting one all encompassing code file, we will submit multiple different files that execute commands differently in order to match the needs of each unique table reading. The files wiill execute using Matlab. 
+
+
+### If Planning to combine 1051 final project, with with other course/ and which aspects of your proposed project would relate to 1050 and which asepects would relate to the other course? 
+This project will be combined with elements from the Classical and Statisical Thermodynamics (from the college of engineering). It is not combined with a final project from the class but it does relate to content and exercises from the class. It will be coded using concepts and terminology learned from 1050, which will help automate the process of thermodynamics table readings.
+
+### If planning to collaborate with 1 or 2 classmates for the final project, list their names, emaill addresses, and the names of their assigned TAs below. 
+Oviya Soundararajan (oviya.sound@temple.edu) & Ezra Galapo (ezgalapo@temple.edu) are the two members of this group and both are assigned to same Teaching Assistant(Steven Dang).
+
+
+## In the world of software, most everything takes longer to implement than you expect. And so its' not uncommon to accoplish less in a fixed amount of time than you home. 
+## In  a sentence (or list of features) define a GOOD outcome for your final project. what will you accomplish no matter what?
+The file we will submit for a good outcome of the final project are: 
+1. A simple matlab file  (tableA_2.m) with code that interpolates between the different columns such as pressure, temperature, etc.... 
+
+
+## In  a sentence (or list of features) define a BETTER outcome for your final project. what do you THINK you can accomplish before the deadline?
+The file we will submit for a good outcome of the final project are: 
+1. The second file will call a function that uses a hardcoded set of data values and interpolates between the differen columns. 
+
+
+## In  a sentence (or list of features) define a BEST outcome for your final project. what do you HOPE you can accomplish before the deadline?
+The file we will submit for a good outcome of the final project are: 
+1. The third file (Table_reading.m) will build upon the second file and add a gui to it in order to simplify the process and call each individual file.
+
+## In  a paragraph or more outline your next steps. What new skills will you need to acquire? What toipcs will you need to research? If working with one or two classmates, who will do what? 
+Oviya: Since I do not have an extensive background experience with MatLab. I will spend time researching and familiarizing herself with the software over the course of the next week and a half. I have some experience with Thermodynamics from highschool but will need to spend some time researching and refreshing my memory.
+
+Ezra: I have a good handle on thermodynamics and Matlab. However, one semester has passed since taking the class. So I will also spend some time briefly reviewing some concepts. 
+
+The next steps for both of us to take revolve aroud understanding the syntax and terminology of C and C++ since this is what MatLab is based off of. We will need to spend sometime understanding the similarities between Python and C/C++ in order to see which concepts we incorporate from this class into our final project. We plan on effectively splitting up the work and meeting together weekly to touch base. I (Oviya) plan to handle the written checkpoints of this project. 
+
+
