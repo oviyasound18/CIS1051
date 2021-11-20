@@ -1,0 +1,27 @@
+# Status Report
+
+#### Your name
+
+Oviya Soundararajan
+
+#### Your section leader's name
+
+Steven Dang
+
+#### Project title
+Thermodynamics Table Reading
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+we have created a simple matlab file of code which interpolates values (such as pressure or temperature) which are stored in columns which we have titled interpolation.m. In addition, we have created a second file that calls a hardcoded set of data values and interpolates between the different columns which we titled Table_reading.m .It is a more automated version of the first file. Both files will be used when building the gui and making the process a more attractive from a UX/UI perspective. 
+
+
+#### What have you not done for your project yet?
+We have yet to build the gui or this project and the actual menu building feature of the table radings. This part is the most critical as it will improve the UI/UX of the experience as it makes it easier for the user to navigate the different table readings. 
+
+#### What problems, if any, have you encountered?
+So far we have encountered issues when trying to connect an excel file of values instead of hardcoding it. We are exploring options around this through watching youtube videos, Stack overflow, etc... 
